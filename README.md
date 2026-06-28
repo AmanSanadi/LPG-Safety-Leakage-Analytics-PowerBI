@@ -4,7 +4,9 @@
 
 ---
 
-[Executive Dashboard]
+## 📊 Executive Dashboard
+
+![Executive Analysis](ScreenShorts/Exicutive_Analysis.png)
 
 ---
 
